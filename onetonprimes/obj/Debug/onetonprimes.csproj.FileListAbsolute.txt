@@ -1,0 +1,5 @@
+C:\projects\vs2008\onetonprimes\onetonprimes\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\vs2008\onetonprimes\onetonprimes\bin\Debug\onetonprimes.exe
+C:\projects\vs2008\onetonprimes\onetonprimes\bin\Debug\onetonprimes.pdb
+C:\projects\vs2008\onetonprimes\onetonprimes\obj\Debug\onetonprimes.exe
+C:\projects\vs2008\onetonprimes\onetonprimes\obj\Debug\onetonprimes.pdb
